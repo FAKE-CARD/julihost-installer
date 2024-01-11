@@ -13,7 +13,7 @@ WINGS=latest
 
 preflight(){
     output "Jexactyl Installation & Upgrade Script"
-    output "Copyright © 2022 Vikas Dongre <zvikasdongre@gmail.com>."
+    output "Copyright © 2024 The XI <ongamingrush@gmail.com>."
     output ""
 
     output "Please note that this script is meant to be installed on a fresh OS. Installing it on a non-fresh OS may cause problems."
